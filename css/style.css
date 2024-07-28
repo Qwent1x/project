@@ -301,3 +301,6 @@ header.fixed {
     color: black;
     font-weight: 700;
 }
+.delete{
+    height: 50px;
+}
